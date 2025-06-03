@@ -1,0 +1,8 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/new volume/100daysRTL/mux4X1/mux4X1.srcs/sources_1/new/mux2X1.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mux2X1
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/new volume/100daysRTL/mux4X1/mux4X1.srcs/sources_1/new/mux4X1_struct.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mux4X1_struct
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/new volume/100daysRTL/mux4X1/mux4X1.srcs/sources_1/new/mux4X1_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mux4X1_tb
+WARNING: [VRFC 10-2019] loop variable declaration is not allowed in this mode of verilog [D:/new volume/100daysRTL/mux4X1/mux4X1.srcs/sources_1/new/mux4X1_tb.v:32]
+WARNING: [VRFC 10-2019] loop variable declaration is not allowed in this mode of verilog [D:/new volume/100daysRTL/mux4X1/mux4X1.srcs/sources_1/new/mux4X1_tb.v:29]
